@@ -1,2 +1,4 @@
 
 Olá mundo, meu nome é Bruce
+<h1>O que eu sei</h1>
+<p>Programo em HTML, estou estudando CSS e um pouco mais para frente estudarei Javascript</p>
